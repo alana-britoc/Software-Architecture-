@@ -1,0 +1,46 @@
+# Binários compilados
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Diretórios de build
+/bin/
+/pkg/
+/vendor/
+
+# Arquivos de módulos Go
+go.sum
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Documentação
+*.md
+
+# Scripts de Execução
+*.bat
+*.sh
+
+# Arquivos de ferramentas e ambiente
+*.local.json
+.claude/
+
+# Logs
+*.log
+
+# Arquivos temporários
+tmp/
+temp/
+*.tmp
